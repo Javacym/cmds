@@ -1,0 +1,1 @@
+java -cp E:\Works\tools\clojure-1.8.0\clojure-1.8.0.jar clojure.main
