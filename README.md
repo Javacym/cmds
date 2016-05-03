@@ -1,2 +1,2 @@
 # cmds
-cmds
+[cmds]

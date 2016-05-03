@@ -3,7 +3,7 @@ e:
 cd Works\c-program
 set /p option=choose your work dir:
 cd %option%
-set /p cfile=choose file you want to make to exe:
+set /p cfile=choose file you want to make to run:
 set info=****************RUN C PROGRAMME************************
 set d=%date:~0,10%
 set t=%time:~0,8%
